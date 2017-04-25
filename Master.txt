@@ -45,3 +45,13 @@
 /js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 /img/system/newIcon.png https://project1563.files.wordpress.com/2017/04/newicon.png?w=32
 <End of Version>
+
+<Version: 1.06>
+/img/system/newIcon.png https://project1563.files.wordpress.com/2017/04/newicon.png?w=32
+/data/Map002.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map002.json
+/data/compressed/Map002.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map002.json
+/data/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/compressed/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/compressed/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+<End of Version>
