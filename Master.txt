@@ -11,4 +11,11 @@
 
 <Version: 1.03>
 /img/system/newIcon.png https://project1563.files.wordpress.com/2017/04/newicon.png?w=32
+/data/Enemies.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Items.json
+/data/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/States.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/States.json
+/data/System.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/System.json
+/data/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
 <End of Version>
