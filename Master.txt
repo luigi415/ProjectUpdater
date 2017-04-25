@@ -41,3 +41,6 @@
 /data/compressed/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
 <End of Version>
 
+<Version: 1.05>
+/js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
+<End of Version>
