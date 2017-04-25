@@ -1,1 +1,7 @@
-NoOwrgNhA0DeBEBLAJvAXARmvARgQwBcCIBTAJwDk8BbE9eAWQCEACJw4u7AYwAs8yebgXIBJEMhIAPdAAYe/QcPJVa9ZvB4Q8AZx2jUmbCQCOYRAAcd6YPPkAmaAGZosgLrYAZkJLjJMtHl4b24SVTo0RjxEEDYAewBPTXgCQUQCazRgDyQQdMQ8CAAZEgA3Egh0LHhqPCkS8sq0AFYgkBoI+ABBZLzuAGt2tUjeuJF6ZIsyOM9EUgnsWgI8dFgAXzW4JENHXA5SSg71AHE2fa54PgEhETI/aTkFa+VD4cZj5O5tPQMq4zNLJlbK5oI4XO4vD57gEgiEwkdIgxorFjogyJVsKlohkbDkYvlCg0Kn8anUiU0AJwU7BDTpMXqIAa0hbwEBjTqTaazeYjRYkZarDZbFDoFx7IgHcL0LrCOJkJwAfQAHJ9FDcxBIHmgAOxPJS3KWRGUEOVOT7ffSGMWmcxWGzg0HOaAAFhycOh6F1wR8hu6svlySx6SBeLyBAKxTKxKMpPqUcp1NZCKiZB0/AZTOTo3GvPgUxmcw5fIFaHWmwQIrQzuw+AlKmTxrl9gV2tVz1uHrQADY9erXp1G2R7ObdJb0NX4DbATZqw4na7IaFOz3vaFfYPh5i0jisqGCZHGiTanHD2gqTTk0UwNxEGBrDTGYMszT2Sz89yizV+StSxs3EAA
+[
+null,
+{"id":1,"battlerName":"MB Battle","characterIndex":0,"characterName":"MB","classId":1,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"Main Boy","traits":[],"initialLevel":1,"maxLevel":50,"name":"A","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"MG Battle","characterIndex":0,"characterName":"MG","classId":1,"equips":[0,0,2,3,0],"faceIndex":0,"faceName":"Main Girl","traits":[],"initialLevel":1,"maxLevel":99,"name":"B","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[3,0,2,3,4],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor2_7","characterIndex":6,"characterName":"Actor2","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""}
+]
