@@ -30,4 +30,13 @@
 /data/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
 /data/Skills.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Skills.json
 /data/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
+/data/compressed/Enemies.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Enemies.json
+/data/compressed/Items.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Items.json
+/data/compressed/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/compressed/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/compressed/States.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/States.json
+/data/compressed/System.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/System.json
+/data/compressed/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
+/data/compressed/Skills.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Skills.json
+/data/compressed/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
 <End of Version>
