@@ -8,3 +8,7 @@
 /data/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
 /js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 <End of Version>
+
+<Version: 1.03>
+/img/system/newIcon.png https://drive.google.com/file/d/0ByfRvQXF7TAFeDF0SXFxdVdvWEE/view?usp=sharing
+<End of Version>
