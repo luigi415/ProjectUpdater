@@ -68,3 +68,7 @@
 /data/Weapons.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Weapons.json
 /js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 <End of Version>
+
+<Version 1.09>
+/js/plugins.zip https://github.com/luigi415/ProjectUpdater/raw/master/plugins.zip
+<End of Version>
