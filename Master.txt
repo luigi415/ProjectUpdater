@@ -19,3 +19,9 @@
 /data/System.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/System.json
 /data/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
 <End of Version>
+
+<Version: 1.04>
+/data/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/Skills.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Skills.json
+<End of Version>
