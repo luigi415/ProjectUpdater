@@ -30,15 +30,6 @@
 /data/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
 /data/Skills.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Skills.json
 /data/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
-/data/compressed/Enemies.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Enemies.json
-/data/compressed/Items.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Items.json
-/data/compressed/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
-/data/compressed/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
-/data/compressed/States.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/States.json
-/data/compressed/System.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/System.json
-/data/compressed/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
-/data/compressed/Skills.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Skills.json
-/data/compressed/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
 <End of Version>
 
 <Version: 1.05>
@@ -49,11 +40,31 @@
 <Version: 1.06>
 /img/system/newIcon.png https://project1563.files.wordpress.com/2017/04/newicon.png?w=32
 /data/Map002.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map002.json
-/data/compressed/Map002.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map002.json
 /data/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
-/data/compressed/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
 /data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
-/data/compressed/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
 <End of Version>
 
-
+<Version 1.08>
+/data/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
+/data/Animations.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Animations.json
+/data/Armors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Armors.json
+/data/Classes.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Classes.json
+/data/CommonEvents.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/CommonEvents.json
+/data/Enemies.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Enemies.json
+/data/Items.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Items.json
+/data/Map001.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map001.json
+/data/Map002.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map002.json
+/data/Map003.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map003.json
+/data/Map004.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map004.json
+/data/Map005.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map005.json
+/data/Map006.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map006.json
+/data/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/Skills.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Skills.json
+/data/States.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/States.json
+/data/System.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/System.json
+/data/Tilesets.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Tilesets.json
+/data/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
+/data/Weapons.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Weapons.json
+/js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
+<End of Version>
