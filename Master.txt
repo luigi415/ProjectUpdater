@@ -56,7 +56,4 @@
 /data/compressed/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
 <End of Version>
 
-<Version: 1.07>
-/data/CommonEvents.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/CommonEvents.json
-/data/compressed/CommonEvents.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/CommonEvents.json
-<End of Version>
+
