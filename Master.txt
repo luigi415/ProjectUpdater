@@ -10,5 +10,5 @@
 <End of Version>
 
 <Version: 1.03>
-/img/system/newIcon.png https://drive.google.com/file/d/0ByfRvQXF7TAFeDF0SXFxdVdvWEE/view?usp=sharing
+/img/system/newIcon.png https://project1563.files.wordpress.com/2017/04/newicon.png?w=32
 <End of Version>
