@@ -105,3 +105,8 @@
 /js/plugins/SRD_BattleStatusCustomizer.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/SRD_BattleStatusCustomizer.js
 /js/plugins/SRD_BattleStatusCustomizer_Part2.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/SRD_BattleStatusCustomizer_Part2.js
 <End of Version>
+
+<Version: 1.15>
+/js/plugins/ZE - Key Mapper.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/ZE%20-%20Key%20Mapper.js
+/js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
+<End of Version>
