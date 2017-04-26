@@ -48,7 +48,7 @@
 /data/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
 <End of Version>
 
-<Version 1.08>
+<Version: 1.08>
 /data/Actors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Actors.json
 /data/Animations.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Animations.json
 /data/Armors.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Armors.json
@@ -73,7 +73,7 @@
 /js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 <End of Version>
 
-<Version 1.09>
+<Version: 1.09>
 /js/plugins.zip https://www.4shared.com/zip/lE5PsogGca/plugins.html
 <End of Version>
 
@@ -107,6 +107,15 @@
 <End of Version>
 
 <Version: 1.15>
-/js/plugins/ZE%20-%20Key%20Mapper.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/ZE%20-%20Key%20Mapper.js
+/js/plugins/ZE%-%Key%Mapper.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/ZE%20-%20Key%20Mapper.js
 /js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
+<End of Version>
+
+<Version: 1.16>
+/img/faces/MainSlyHumble.png https://project1563.files.wordpress.com/2017/04/main-sly-humble.png
+/img/faces/MainSerious.png https://project1563.files.wordpress.com/2017/04/main-serious.png
+/img/faces/MainHappy.png https://project1563.files.wordpress.com/2017/04/main-happy.png
+/img/faces/MainDissapointed.png https://project1563.files.wordpress.com/2017/04/main-dissapointed.png
+/data/Map003.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map003.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
 <End of Version>
