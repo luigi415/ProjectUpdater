@@ -26,5 +26,4 @@
 /img/faces/MainHappy.png https://project1563.files.wordpress.com/2017/04/main-happy.png
 /img/faces/MainDissapointed.png https://project1563.files.wordpress.com/2017/04/main-dissapointed.png
 /img/system/newIcon.png https://project1563.files.wordpress.com/2017/04/newicon.png?w=32
-/js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 <End of Version>
