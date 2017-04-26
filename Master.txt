@@ -20,7 +20,6 @@
 /data/Tilesets.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Tilesets.json
 /data/Troops.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Troops.json
 /data/Weapons.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Weapons.json
-/js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 /js/plugins/HealOnLevelUp.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/HealOnLevelUp.js
 /js/plugins/ZE%-%Key%Mapper.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/ZE%20-%20Key%20Mapper.js
 /img/faces/MainSlyHumble.png https://project1563.files.wordpress.com/2017/04/main-sly-humble.png
