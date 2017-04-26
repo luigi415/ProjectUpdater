@@ -90,3 +90,9 @@
 /js/plugins/SRD_BattleStatusCustomizer_Part2.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/SRD_BattleStatusCustomizer_Part2.js
 /js/plugins/HealOnLevelUp.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/HealOnLevelUp.js
 <End of Version>
+
+<Version:  1.12>
+/data/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/Items.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Items.json
+<End of Version>
