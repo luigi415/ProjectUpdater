@@ -100,3 +100,8 @@
 <Version: 1.13>
 /js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 <End of Version>
+
+<Version: 1.14>
+/js/plugins/SRD_BattleStatusCustomizer.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/SRD_BattleStatusCustomizer.js
+/js/plugins/SRD_BattleStatusCustomizer_Part2.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/SRD_BattleStatusCustomizer_Part2.js
+<End of Version>
