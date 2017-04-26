@@ -76,3 +76,4 @@
 <Version 1.09>
 /js/plugins.zip https://github.com/luigi415/ProjectUpdater/raw/master/plugins.zip
 <End of Version>
+
