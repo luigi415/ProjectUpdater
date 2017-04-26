@@ -26,7 +26,6 @@
 /img/faces/MainSerious.png https://project1563.files.wordpress.com/2017/04/main-serious.png
 /img/faces/MainHappy.png https://project1563.files.wordpress.com/2017/04/main-happy.png
 /img/faces/MainDissapointed.png https://project1563.files.wordpress.com/2017/04/main-dissapointed.png
-/js/plugins/SRD_BattleStatusCustomizer.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/SRD_BattleStatusCustomizer.js
-/js/plugins/SRD_BattleStatusCustomizer_Part2.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/SRD_BattleStatusCustomizer_Part2.js
 /img/system/newIcon.png https://project1563.files.wordpress.com/2017/04/newicon.png?w=32
+/js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 <End of Version>
