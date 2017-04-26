@@ -77,3 +77,10 @@
 /js/plugins.zip https://github.com/luigi415/ProjectUpdater/raw/master/plugins.zip
 <End of Version>
 
+<Version: 1.10>
+/data/Map007.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map007.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/System.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/System.json
+/data/Skills.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Skills.json
+/js/plugins.zip https://github.com/luigi415/ProjectUpdater/raw/master/plugins.zip
+<End of Version>
