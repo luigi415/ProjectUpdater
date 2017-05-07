@@ -1,4 +1,4 @@
-<Version: 1.2>
+<Version: 1.21>
 /js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
 /data/Map003.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map003.json
 /data/Map006.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map006.json
