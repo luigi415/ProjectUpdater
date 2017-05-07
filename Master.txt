@@ -1,3 +1,7 @@
 <Version: 1.2>
-
+/js/plugins.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/plugins.js
+/data/Map003.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map003.json
+/data/Map006.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map006.json
+/data/DataEX.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/DataEX.json
+/data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
 <End of Version>
