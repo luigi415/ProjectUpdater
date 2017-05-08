@@ -4,4 +4,10 @@
 /data/Map006.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map006.json
 /data/DataEX.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/DataEX.json
 /data/MapInfos.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/MapInfos.json
+/data/Map002.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Map002.json
+/data/Windows.json https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Windows.json
+/js/plugins/Galv_ImageCache.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/Galv_ImageCache.js
+/js/plugins/HIME_MenuCommandManager.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/HIME_MenuCommandManager.js
+/js/plugins/YEP_StatusMenuCore.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/YEP_StatusMenuCore.js
+/js/plugins/YEP_X_BattleStatistics.js https://raw.githubusercontent.com/luigi415/ProjectUpdater/master/YEP_X_BattleStatistics.js
 <End of Version>
